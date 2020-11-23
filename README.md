@@ -1,4 +1,4 @@
-# Clone da interface do React para Estudo
+# Clone da interface do Netflix em React 
 
 Agradecimentos ao professor Bonieky Lacerda
 você precisa de uma chave para fazer funcionar
