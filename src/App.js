@@ -59,8 +59,7 @@ export default () =>{
         }
       </section>
       <footer>
-        Feito em Live (https://www.youtube.com/watch?v=tBweoUiMsDg) para estudo de react, todos os direitos das imagens são da Netflix.
-        Dados Extraidos de https://www.themoviedb.org/
+        Feito por Kardrean agradecimentos profº: Bonieky Lacerda
       </footer>
 
 
